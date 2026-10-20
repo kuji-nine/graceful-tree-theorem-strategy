@@ -28,7 +28,9 @@ such that the induced edge labels {|f(u)−f(v)| : uv ∈ E(T)} are all distinct
 This is a **proof sketch**, not a complete proof. The key open problem is the "slack-zero singularity" (ε→0) and the finite gap 36 ≤ n < n_0. The strategy is documented here for future researchers.
 
 ## Citation
-If you find this useful, please cite the Zenodo DOI (to be assigned).
+If you use this work or refer to this human-AI collaborative research, please cite:
+- **DOI**: [10.5281/zenodo.23505840](https://doi.org/10.5281/zenodo.23505840)
+- **Zenodo Record**: https://zenodo.org/records/23505840
 
 ## License
 CC BY 4.0
