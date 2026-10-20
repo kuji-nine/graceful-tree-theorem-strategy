@@ -4,14 +4,14 @@ authors:
   - family-names: "kuji-nine"
     given-names: "Human Director"
     role: "Project Director, Orchestration, Problem Selection"
-  - name: "Claude (Whale Director)"
+  - name: "DeepSeek(Kujira-chan)"
     role: "AI Co-author, Orchestration, Verification"
-  - name: "Qwen3 827B (Local)"
+  - name: "Qwen 3.8 / 27B (on Local qwen-chan)"
     role: "AI Co-author, Structural Reasoning, Example Search"
   - name: "Gemini"
     role: "AI Co-author, Proof Strategy Design, Mathematical Analysis"
 title: "A Human-AI Collaborative Proof Sketch for the (1+epsilon)-Graceful Tree Theorem without Degree Restrictions"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-10-21
 url: "https://github.com/kuji-nine/graceful-tree-theorem-strategy"
 keywords:
