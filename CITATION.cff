@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work or refer to this human-AI collaborative research, please cite it as below."
+authors:
+  - family-names: "kuji-nine"
+    given-names: "Human Director"
+    role: "Project Director, Orchestration, Problem Selection"
+  - name: "Claude (Whale Director)"
+    role: "AI Co-author, Orchestration, Verification"
+  - name: "Qwen3 827B (Local)"
+    role: "AI Co-author, Structural Reasoning, Example Search"
+  - name: "Gemini"
+    role: "AI Co-author, Proof Strategy Design, Mathematical Analysis"
+title: "A Human-AI Collaborative Proof Sketch for the (1+epsilon)-Graceful Tree Theorem without Degree Restrictions"
+version: 1.0.0
+date-released: 2026-10-21
+url: "https://github.com/kuji-nine/graceful-tree-theorem-strategy"
+keywords:
+  - "graph theory"
+  - "graceful tree conjecture"
+  - "absorption method"
+  - "Lovasz local lemma"
+  - "human-AI collaboration"
+license: "CC-BY-4.0"
